@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirzakhmet Syzdykov
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Mathematics and Computer Science
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: by mail
 
