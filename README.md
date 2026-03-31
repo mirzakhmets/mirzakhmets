@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirzakhmet Syzdykov
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Applied Mathematics, Computer Science and W3Schools Courses
+- 👀 I’m interested in eternity
+- 🌱 I’m currently learning - I'm graduated
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: by mail
 
